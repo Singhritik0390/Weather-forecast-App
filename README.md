@@ -3,7 +3,7 @@
 This weather app is a web-based application that allows users to search for current weather information as well as weather forecast of different cities around the world. Users can search for weather information by city name. This weather app uses the openweathermap API which is found at www.openweathermap.org
 
 
-Check out the live version [here](http://nachiket.me/projects/CODEDweatherapp/)
+Check out the live version [here](https://weatherforecastapp390.netlify.app/)
 
 ### Features
 ---
